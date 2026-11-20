@@ -1,0 +1,57 @@
+id,date,category,payment_mode,amount,notes
+EXP001,2026-09-04,Rent & Hostel,Credit Card,7336.56,Monthly accommodation
+EXP002,2026-10-07,Transport,NetBanking,418.19,Auto commute
+EXP003,2026-11-10,Groceries,Debit Card,595.98,Fruits & veggies
+EXP004,2026-09-13,Utilities,Cash,1147.38,Electricity bill
+EXP005,2026-10-16,Education,UPI,1537.66,Reference book
+EXP006,2026-11-19,Entertainment,Credit Card,228.83,Movie ticket
+EXP007,2026-09-22,Healthcare,NetBanking,441.07,Health checkup
+EXP008,2026-10-25,Food & Dining,Debit Card,95.13,Evening snacks
+EXP009,2026-11-28,Rent & Hostel,Cash,7796.12,Room deposit share
+EXP010,2026-09-03,Transport,UPI,317.92,Auto commute
+EXP011,2026-10-06,Groceries,Credit Card,946.27,Pulses & grains
+EXP012,2026-11-09,Utilities,NetBanking,1333.2,
+EXP013,2026-09-12,Education,Debit Card,165.27,Exam registration
+EXP014,2026-10-15,Entertainment,Cash,897.84,Streaming subscription
+EXP015,2026-11-18,Healthcare,UPI,503.46,Pharmacy medicine
+EXP016,2026-09-21,Food & Dining,Credit Card,625.61,Coffee & bite
+EXP017,2026-10-24,Rent & Hostel,NetBanking,4113.26,Maintenance fee
+EXP018,2026-11-27,Transport,Debit Card,89.33,Bus ticket
+EXP019,2026-09-02,Groceries,Cash,1185.78,Fruits & veggies
+EXP020,2026-10-05,Utilities,UPI,1221.62,Electricity bill
+EXP021,2026-11-08,Education,Credit Card,2436.82,Online course
+EXP022,2026-09-11,Entertainment,NetBanking,277.88,Streaming subscription
+EXP023,2026-10-14,Healthcare,Debit Card,1264.58,Health checkup
+EXP024,2026-11-17,Food & Dining,Cash,584.71,Coffee & bite
+EXP025,2026-09-20,Rent & Hostel,UPI,6964.11,Room deposit share
+EXP026,2026-10-23,Transport,Credit Card,75.47,Auto commute
+EXP027,2026-11-26,Groceries,NetBanking,1448.26,Fruits & veggies
+EXP028,2026-09-01,Utilities,Debit Card,1397.44,Electricity bill
+EXP029,2026-10-04,Education,Cash,1043.3,Online course
+EXP030,2026-11-07,Entertainment,UPI,835.32,Streaming subscription
+EXP031,2026-09-10,Healthcare,Credit Card,344.46,Doctor consultation
+EXP032,2026-10-13,Food & Dining,NetBanking,199.42,Coffee & bite
+EXP033,2026-11-16,Rent & Hostel,Debit Card,7710.92,Room deposit share
+EXP034,2026-09-19,Transport,Cash,370.5,Auto commute
+EXP035,2026-10-22,Groceries,UPI,1077.92,Dairy & eggs
+EXP036,2026-11-25,Utilities,Credit Card,428.76,Water charge
+EXP037,2026-09-28,Education,NetBanking,784.38,
+EXP038,2026-10-03,Entertainment,Debit Card,1125.32,Weekend outing
+EXP039,2026-11-06,Healthcare,Cash,888.59,Health checkup
+EXP040,2026-09-09,Food & Dining,UPI,264.84,Lunch mess/cafe
+EXP041,2026-10-12,Rent & Hostel,Credit Card,4874.29,Monthly accommodation
+EXP042,2026-11-15,Transport,NetBanking,450.57,Cab ride
+EXP043,2026-09-18,Groceries,Debit Card,665.0,Dairy & eggs
+EXP044,2026-10-21,Utilities,Cash,1478.39,Broadband share
+EXP045,2026-11-24,Education,UPI,649.67,Online course
+EXP046,2026-09-27,Entertainment,Credit Card,595.03,Weekend outing
+EXP047,2026-10-02,Healthcare,NetBanking,753.22,Doctor consultation
+EXP048,2026-11-05,Food & Dining,Debit Card,159.59,Coffee & bite
+EXP049,2026-09-08,Rent & Hostel,Cash,7982.08,Maintenance fee
+EXP050,2026-10-11,Transport,UPI,497.89,Cab ride
+EXP051,2026-11-14,Groceries,Credit Card,811.09,Dairy & eggs
+EXP052,2026-09-17,Utilities,NetBanking,913.34,Electricity bill
+EXP053,2026-10-20,Education,Debit Card,1926.09,Reference book
+EXP054,2026-11-23,Entertainment,Cash,351.99,Movie ticket
+EXP055,2026-09-26,Healthcare,UPI,1213.07,Doctor consultation
+EXP056,2026-10-18,Rent & Hostel,UPI,7564.0,
